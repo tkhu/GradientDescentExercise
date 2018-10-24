@@ -1,5 +1,3 @@
-# Machine-Learning-Week-2
-Test
-This is a test readme
+# Coursera Machine Learning Exercise
 
-I updated this on 2018-10-23.
+I computed gradient descent via Matlab as part of a Coursera weekly exercise.
